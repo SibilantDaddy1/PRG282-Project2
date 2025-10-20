@@ -27,7 +27,7 @@ namespace SuperheroesApp
             ThreatLevel = CalculateThreat(Rank);
         }
 
-        private string CalculateRank(int score)
+        public string CalculateRank(int score)
         {
             if (score >= 81) return "S-Rank";
             if (score >= 61) return "A-Rank";
@@ -35,7 +35,7 @@ namespace SuperheroesApp
             return "C-Rank";
         }
 
-        private string CalculateThreat(string rank)
+        public string CalculateThreat(string rank)
         {
             switch (rank)
             {
