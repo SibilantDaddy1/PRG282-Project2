@@ -44,7 +44,7 @@ namespace SuperheroesApp
                     return;
                 }
 
-                if (!int.TryParse(textBox4.Text, out int score) || score < 0 || score > 100)
+                if (!int.TryParse(textBox5.Text, out int score) || score < 0 || score > 100)
                 {
                     MessageBox.Show("Exam Score must be between 0 and 100.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                     return;
@@ -214,6 +214,57 @@ namespace SuperheroesApp
             textBox4.Text = row.Cells[3].Value.ToString(); // Superpower
             textBox5.Text = row.Cells[4].Value.ToString(); // Score
 
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                LoadHeroesToGrid();
+                MessageBox.Show("Superheroes list refreshed successfully!", "View All", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Error loading heroes: " + ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                if (dataGridView1.SelectedRows.Count == 0)
+                {
+                    MessageBox.Show("Please select a superhero to delete.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                    return;
+                }
+
+                DataGridViewRow selectedRow = dataGridView1.SelectedRows[0];
+                string heroId = selectedRow.Cells[0].Value.ToString();
+
+                DialogResult confirm = MessageBox.Show($"Are you sure you want to delete Hero ID: {heroId}?",
+                    "Confirm Deletion", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+
+                if (confirm == DialogResult.Yes)
+                {
+                    Hero heroToDelete = heroes.FirstOrDefault(h => h.HeroID == heroId);
+                    if (heroToDelete == null)
+                    {
+                        MessageBox.Show("Hero not found in the list.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                        return;
+                    }
+
+                    heroes.Remove(heroToDelete);
+                    FileHandler.OverwriteHeroes(heroes);
+
+                    LoadHeroesToGrid();
+                    MessageBox.Show("Superhero deleted successfully!", "Deleted", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Error deleting superhero: " + ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
         }
     }
 }

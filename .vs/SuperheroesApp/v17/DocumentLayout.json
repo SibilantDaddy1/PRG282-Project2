@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\refil\\source\\repos\\PRG282-Project2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FBDEC9B7-9958-44A9-954E-524998FCCAB7}|SuperheroesApp.csproj|c:\\users\\refil\\source\\repos\\prg282-project2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBDEC9B7-9958-44A9-954E-524998FCCAB7}|SuperheroesApp.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBDEC9B7-9958-44A9-954E-524998FCCAB7}|SuperheroesApp.csproj|c:\\users\\refil\\source\\repos\\prg282-project2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FBDEC9B7-9958-44A9-954E-524998FCCAB7}|SuperheroesApp.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBDEC9B7-9958-44A9-954E-524998FCCAB7}|SuperheroesApp.csproj|c:\\users\\refil\\source\\repos\\prg282-project2\\hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBDEC9B7-9958-44A9-954E-524998FCCAB7}|SuperheroesApp.csproj|solutionrelative:hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBDEC9B7-9958-44A9-954E-524998FCCAB7}|SuperheroesApp.csproj|c:\\users\\refil\\source\\repos\\prg282-project2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBDEC9B7-9958-44A9-954E-524998FCCAB7}|SuperheroesApp.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBDEC9B7-9958-44A9-954E-524998FCCAB7}|SuperheroesApp.csproj|c:\\users\\refil\\source\\repos\\prg282-project2\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBDEC9B7-9958-44A9-954E-524998FCCAB7}|SuperheroesApp.csproj|solutionrelative:form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBDEC9B7-9958-44A9-954E-524998FCCAB7}|SuperheroesApp.csproj|c:\\users\\refil\\source\\repos\\prg282-project2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBDEC9B7-9958-44A9-954E-524998FCCAB7}|SuperheroesApp.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBDEC9B7-9958-44A9-954E-524998FCCAB7}|SuperheroesApp.csproj|c:\\users\\refil\\source\\repos\\prg282-project2\\form2.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{FBDEC9B7-9958-44A9-954E-524998FCCAB7}|SuperheroesApp.csproj|solutionrelative:form2.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBDEC9B7-9958-44A9-954E-524998FCCAB7}|SuperheroesApp.csproj|c:\\users\\refil\\source\\repos\\prg282-project2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FBDEC9B7-9958-44A9-954E-524998FCCAB7}|SuperheroesApp.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBDEC9B7-9958-44A9-954E-524998FCCAB7}|SuperheroesApp.csproj|c:\\users\\refil\\source\\repos\\prg282-project2\\filehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBDEC9B7-9958-44A9-954E-524998FCCAB7}|SuperheroesApp.csproj|solutionrelative:filehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBDEC9B7-9958-44A9-954E-524998FCCAB7}|SuperheroesApp.csproj|c:\\users\\refil\\source\\repos\\prg282-project2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBDEC9B7-9958-44A9-954E-524998FCCAB7}|SuperheroesApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBDEC9B7-9958-44A9-954E-524998FCCAB7}|SuperheroesApp.csproj|c:\\users\\refil\\source\\repos\\prg282-project2\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{FBDEC9B7-9958-44A9-954E-524998FCCAB7}|SuperheroesApp.csproj|solutionrelative:form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\refil\\source\\repos\\PRG282-Project2\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\refil\\source\\repos\\PRG282-Project2\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAwwDwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T18:33:25.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\refil\\source\\repos\\PRG282-Project2\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\refil\\source\\repos\\PRG282-Project2\\Form2.cs",
+              "RelativeToolTip": "Form2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T18:32:12.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\refil\\source\\repos\\PRG282-Project2\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\refil\\source\\repos\\PRG282-Project2\\Form2.cs [Design]",
+              "RelativeToolTip": "Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T18:32:03.3Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\refil\\source\\repos\\PRG282-Project2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\refil\\source\\repos\\PRG282-Project2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T18:08:01.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Hero.cs",
+              "DocumentMoniker": "C:\\Users\\refil\\source\\repos\\PRG282-Project2\\Hero.cs",
+              "RelativeDocumentMoniker": "Hero.cs",
+              "ToolTip": "C:\\Users\\refil\\source\\repos\\PRG282-Project2\\Hero.cs",
+              "RelativeToolTip": "Hero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T18:08:00.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form2.resx",
+              "DocumentMoniker": "C:\\Users\\refil\\source\\repos\\PRG282-Project2\\Form2.resx",
+              "RelativeDocumentMoniker": "Form2.resx",
+              "ToolTip": "C:\\Users\\refil\\source\\repos\\PRG282-Project2\\Form2.resx",
+              "RelativeToolTip": "Form2.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-10-21T18:07:57.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form2.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\refil\\source\\repos\\PRG282-Project2\\Form2.Designer.cs",
+              "RelativeDocumentMoniker": "Form2.Designer.cs",
+              "ToolTip": "C:\\Users\\refil\\source\\repos\\PRG282-Project2\\Form2.Designer.cs",
+              "RelativeToolTip": "Form2.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T18:07:55.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\refil\\Source\\Repos\\PRG282-Project2\\Form1.resx",
+              "RelativeDocumentMoniker": "Form1.resx",
+              "ToolTip": "C:\\Users\\refil\\Source\\Repos\\PRG282-Project2\\Form1.resx",
+              "RelativeToolTip": "Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-10-21T18:07:51.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\refil\\Source\\Repos\\PRG282-Project2\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\refil\\Source\\Repos\\PRG282-Project2\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T18:07:46.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\refil\\source\\repos\\PRG282-Project2\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\refil\\source\\repos\\PRG282-Project2\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T18:07:30.927Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FileHandler.cs",
+              "DocumentMoniker": "C:\\Users\\refil\\source\\repos\\PRG282-Project2\\FileHandler.cs",
+              "RelativeDocumentMoniker": "FileHandler.cs",
+              "ToolTip": "C:\\Users\\refil\\source\\repos\\PRG282-Project2\\FileHandler.cs",
+              "RelativeToolTip": "FileHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T18:07:22.666Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

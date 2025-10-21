@@ -1,0 +1,9 @@
+Summary Report - 2025/10/21 21:05:37
+------------------------------------
+Total Heroes: 2
+Average Age: 21,00
+Average Score: 77,50
+S-Rank Count: 1
+A-Rank Count: 0
+B-Rank Count: 1
+C-Rank Count: 0

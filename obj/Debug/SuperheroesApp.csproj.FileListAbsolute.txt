@@ -9,3 +9,14 @@ C:\Users\Masana\source\repos\PRG282-Project2\obj\Debug\SuperheroesApp.csproj.Cor
 C:\Users\Masana\source\repos\PRG282-Project2\obj\Debug\SuperheroesApp.exe
 C:\Users\Masana\source\repos\PRG282-Project2\obj\Debug\SuperheroesApp.pdb
 C:\Users\Masana\source\repos\PRG282-Project2\obj\Debug\SuperheroesApp.exe.config
+C:\Users\refil\Source\Repos\PRG282-Project2\bin\Debug\SuperheroesApp.exe.config
+C:\Users\refil\Source\Repos\PRG282-Project2\bin\Debug\SuperheroesApp.exe
+C:\Users\refil\Source\Repos\PRG282-Project2\bin\Debug\SuperheroesApp.pdb
+C:\Users\refil\Source\Repos\PRG282-Project2\obj\Debug\SuperheroesApp.csproj.AssemblyReference.cache
+C:\Users\refil\Source\Repos\PRG282-Project2\obj\Debug\SuperheroesApp.exe.config
+C:\Users\refil\Source\Repos\PRG282-Project2\obj\Debug\SuperheroesApp.Form1.resources
+C:\Users\refil\Source\Repos\PRG282-Project2\obj\Debug\SuperheroesApp.Form2.resources
+C:\Users\refil\Source\Repos\PRG282-Project2\obj\Debug\SuperheroesApp.csproj.GenerateResource.cache
+C:\Users\refil\Source\Repos\PRG282-Project2\obj\Debug\SuperheroesApp.csproj.CoreCompileInputs.cache
+C:\Users\refil\Source\Repos\PRG282-Project2\obj\Debug\SuperheroesApp.exe
+C:\Users\refil\Source\Repos\PRG282-Project2\obj\Debug\SuperheroesApp.pdb
